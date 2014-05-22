@@ -27,6 +27,8 @@ head -10 wget-log // wget-log 파일의 앞 10줄 출력
 
 tail -10 wget-log // wget-log 파일의 뒤 10줄 출력
 
+grep -r "찾을 문자열" ./*
+
 wget http://media.daum.net/election2014/news/issue/newsview?newsId=20140522120308119
 
 sudo apt-get install 패키지명

@@ -28,6 +28,14 @@ INSERT INTO animals (name) VALUES
 
 SELECT * FROM animals;
 
+where
+limit
+like
+between
+
+SELECT messages, message_time FROM messageTable0 where message_time between '2010-10-10' and '2010-12-31';
+
+
 /* JOIN 예제 */
 select u.name, m.messages, m.message_time from twitterUser u, messageTable5 m where u.userid = m.userid limit 3;
 
