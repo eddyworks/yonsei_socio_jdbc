@@ -22,10 +22,14 @@ find //찾기
 find . -name c*.* //현재 디렉터리 안에서 c로 시작하는 모든 파일 찾기
 
 cat	//파일 내용 출력
+
+more -10 newsview\?newsId\=20140522120308119 //cat은 내용이 긴 경우 불편해서 10줄씩 보기 - 스페이스 바로 넘김
  
 head -10 wget-log // wget-log 파일의 앞 10줄 출력
 
 tail -10 wget-log // wget-log 파일의 뒤 10줄 출력
+
+
 
 grep -r "찾을 문자열" ./*
 
