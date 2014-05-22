@@ -6,6 +6,7 @@ Eclipse IDE for Java DevelopersEclipse IDE for Java Developers - http://www.ecli
 JDBC 커넥터 - http://dev.mysql.com/downloads/connector/j  
 Putty - http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html  
 X2go - http://wiki.x2go.org/doku.php/download:start  
+JAVA SDK - http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html  
   
 [참고 URL]  
 http://docs.oracle.com/javase/tutorial/networking/urls/readingURL.html
